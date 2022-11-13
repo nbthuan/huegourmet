@@ -1,0 +1,17 @@
+.hours{
+	border: 3px solid #FFCC66;
+    border-radius: 8px;
+    box-shadow: 0 4px 1px rgba(153, 102, 68, 0.1);
+	padding: 10px;
+	width: 420px;
+	background: #AAA69E;
+	margin: 10px auto;	
+	font-size: 16px;
+	color: #FFF;
+}
+.hours td{
+	padding: 10px;	
+}
+
+
+
